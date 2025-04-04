@@ -1,7 +1,6 @@
 library(BayesLogit)  
 library(splines)
 library(ggplot2)
-library(ggplot2)
 library(gridExtra)
 library(reshape2)
 library(coda)
