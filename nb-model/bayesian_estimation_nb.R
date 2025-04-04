@@ -29,7 +29,7 @@ prior_function <- function( Z ) {
   prior$theta$v <- diag(100,p)     
   
   
-  # Prior for r (overdispersion parameter)
+  # Prior for r (dispersion parameter)
   prior$r$a0 <- 5
   prior$r$b0 <- 1/10 
   
